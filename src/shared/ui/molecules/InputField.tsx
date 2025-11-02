@@ -6,5 +6,5 @@ export interface InputFieldProps {
 }
 
 export default function InputField({ className, children }: InputFieldProps) {
-    return <div className={`flex w-full flex-col gap-y-2 ${className}`}>{children}</div>
+    return <div className={`flex w-full flex-col gap-y-1 ${className}`}>{children}</div>
 }

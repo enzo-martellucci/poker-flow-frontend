@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Burbank';
+    src: url('../fonts/Burbank Big Wide Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Burbank';
+    src: url('../fonts/Burbank Big Wide Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Burbank';
+    src: url('../fonts/Burbank Big Wide Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Burbank';
+    src: url('../fonts/Burbank Big Wide Black.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+}

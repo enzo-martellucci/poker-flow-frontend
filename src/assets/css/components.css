@@ -1,0 +1,17 @@
+@layer components {
+    .button {
+        @apply flex items-center gap-x-4 font-medium text-center shadow rounded-lg cursor-pointer transition-all
+    }
+
+    .label {
+        @apply block font-medium
+    }
+
+    .text-input {
+        @apply w-full bg-gray-50 border shadow rounded-lg cursor-text transition-all
+    }
+
+    .error {
+        @apply text-red-400 h-4
+    }
+}
