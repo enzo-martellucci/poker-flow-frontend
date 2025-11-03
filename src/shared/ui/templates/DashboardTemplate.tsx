@@ -5,7 +5,7 @@ export default function DashboardTemplate() {
     return (
         <div className={'relative flex h-full'}>
             <Navbar />
-            <main className={'p-4'}>
+            <main className={'w-full p-4'}>
                 <Outlet />
             </main>
         </div>

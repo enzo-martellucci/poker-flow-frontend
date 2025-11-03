@@ -2,8 +2,8 @@ import type { ButtonHTMLAttributes, PropsWithChildren } from 'react'
 
 export const ButtonScale = {
     NO_PADDING: 'text-3xl',
-    XS: 'todo',
-    S: 'todo',
+    FULL: 'w-full justify-center px-2 py-1 text-base sm:px-4 sm:py-2 sm:text-lg lg:px-6 lg:py-4 lg:text-2xl xl:text-3xl',
+    S: 'px-3 py-2 text-xl',
     M: 'px-6 py-4 text-3xl',
     L: 'todo',
     XL: 'todo',
